@@ -68,7 +68,7 @@
 }
 
 .footer-subscribe {
-  margin-left: 80px;
+  margin-left: auto;
 }
 
 .footer-subscribe-title {
@@ -97,7 +97,7 @@
   border-radius: 4px;
   outline: transparent;
   font-size: 12px;
-  line-height: 2;
+  line-height: 1.17;
   letter-spacing: 0.04em;
   color: #ffffff;
   background-color: transparent;
@@ -134,7 +134,7 @@
 
 .subscribe-button:hover,
 .subscribe-button:focus {
-  background-color: #404bbf;
+  background-color: #31d0aa;
 }
 
 .subscribe-icon {
